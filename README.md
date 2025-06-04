@@ -8,7 +8,7 @@ AI Human Text Detector is an intelligent text classification system that disting
 - 🌐 Easy to extend into a web app or API
 - 💡 Designed for academic and practical use
 ---
-## 🚀 Getting Started
+## 🚀Getting Started
 ### Prerequisites
 - Python 3.8 or higher
 - `pip` for package management
